@@ -33,7 +33,7 @@ class OpenSource extends React.Component {
 
         return <section className='section-open_source'>
             <div className='xl:container xl:mx-auto nav-container'>
-                <h2>Open soucre</h2>
+                <h2>Open source</h2>
 
                 <div className='grid grid-cols-1 sm:grid-cols-2 gap-4'>
                     {
