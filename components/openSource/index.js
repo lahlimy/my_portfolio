@@ -17,7 +17,7 @@ class OpenSource extends React.Component {
     }
 
     async componentDidMount() {
-        const res = await fetch('https://marwanzaky-api.vercel.app/api/v1/repos');
+        const res = await fetch('https://api-my-rebo.onrender.com/api/courses');
         const json = await res.json();
 
         this.setState({
