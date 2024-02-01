@@ -43,7 +43,7 @@ function Header() {
                 </div>
 
                 <div className='w-full md:w-[50%] hidden md:block'>
-                    <img className='header-profile_picture' src='https://media.licdn.com/dms/image/D4E03AQH0Ciq4librZg/profile-displayphoto-shrink_800_800/0/1674214564201?e=1679529600&v=beta&t=fveSOViWKrfJ5ijpcpxT3h3wUyYlz1bEuRXcwz4hOis' alt='profile' />
+                    <img className='header-profile_picture' src='https://media.licdn.com/dms/image/D4E03AQHhUWES6ecTzg/profile-displayphoto-shrink_200_200/0/1704378589509?e=1712188800&v=beta&t=72zxt7T5qoWqDBPnQFKkj2nzkdGMenrj4o-K8B43Ffk' alt='profile' />
                 </div>
             </div>
         </div>
